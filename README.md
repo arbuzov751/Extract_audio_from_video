@@ -1,6 +1,7 @@
 # Extract_audio_from_video
 
 Скачайте скрипт
+
 В командной строке введите $python extract_audio.py video_for_audio.mp4 audio_from_video.wav
 
 
